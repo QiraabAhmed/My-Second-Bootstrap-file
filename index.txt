@@ -1,0 +1,17 @@
+<div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-646d43f" href="https://www.facebook.com/withemes" target="_blank">
+<span class="elementor-screen-only">Facebook-f</span>
+<i class="fab fa-facebook-f"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-946c42a" href="https://twitter.com/withemes" target="_blank">
+<span class="elementor-screen-only">Twitter</span>
+<i class="fab fa-twitter"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-envelope-open-text elementor-repeater-item-29215bb" href="mailto:info@domain.com" target="_blank">
+<span class="elementor-screen-only">Envelope-open-text</span>
+<i class="fas fa-envelope-open-text"></i> </a>
+</span>
+</div>
